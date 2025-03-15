@@ -74,7 +74,7 @@ A compact overview that aggregates events by EventID (both mapped and unmapped).
 
 The first and last occurrence timestamps.
 The total count of events.
-This summary is arranged chronologically to allow SOC analysts to quickly grasp the sequence of events.
+This summary is arranged chronologically.
 
 Detailed Timeline:
 A breakdown of events grouped by day, with each event’s time, description, and source.
