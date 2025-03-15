@@ -32,8 +32,8 @@ LogLine is a WIP log aggregation and timeline summarization tool. It collects lo
 - An `events.txt` file located in the same directory as `LogLine.ps1` with EventID mappings formatted as follows:
 
 1100,The event logging service has shut down<br>
-1102,The audit log was cleared
 4798,A user's local group membership was enumerated.<br>
+1102,The audit log was cleared
 
 ## Installation
 
