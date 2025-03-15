@@ -81,10 +81,10 @@ A breakdown of events grouped by day, with each event’s time, description, and
 
 Events Without Timestamps:
 A separate section for any events that could not be timestamped.
-
-Contributing
+```
+###Contributing
 Contributions, suggestions, and bug reports are welcome!
 Feel free to fork this repository, make your changes, and submit a pull request.
 
-License
+###License
 This project is licensed under the MIT License.
