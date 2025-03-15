@@ -40,7 +40,7 @@ LogLine is a WIP log aggregation and timeline summarization tool. It collects lo
 
 ## Usage
 
-Run the script using PowerShell with the desired parameters. The key parameters are:
+Run the script as administrator using PowerShell with the desired parameters. The key parameters are:
 
 - `-F [string[]]`: (Optional) Paths to log files to process.
 - `-E`: Include Windows Event Logs.
