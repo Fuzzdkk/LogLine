@@ -30,7 +30,10 @@ LogLine is a WIP log aggregation and timeline summarization tool. It collects lo
 
 - **PowerShell 5.1 or later** (typically available on Windows 10/11).
 - An `events.txt` file located in the same directory as `LogLine.ps1` with EventID mappings formatted as follows:
-1100,The event logging service has shut down 1101,Audit events have been dropped by the transport. 1102,The audit log was cleared ... (and so on)
+1100,The event logging service has shut down
+1101,Audit events have been dropped by the transport.
+1102,The audit log was cleared
+... (and so on)
 
 ## Installation
 
