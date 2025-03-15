@@ -35,6 +35,11 @@ LogLine is a WIP log aggregation and timeline summarization tool. It collects lo
 4798,A user's local group membership was enumerated.<br>
 1102,The audit log was cleared
 
+## Microsoft Recommended Event IDs
+
+The provided `events.txt` file includes a list of EventIDs that Microsoft recommends should be logged as a minimum for effective security auditing and monitoring. This list is based on the events detailed in Microsoft's documentation. For more details on the recommended events, please refer to the [Appendix L – Events to Monitor](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor) page.
+
+
 ## Installation
 
 1. Clone or download this repository.
