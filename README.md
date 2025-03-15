@@ -1,6 +1,6 @@
 # LogLine Timeline Report Tool
 
-LogLine is an advanced log aggregation and timeline summarization tool designed for blue-team SOC analysts. It collects log events from local files and Windows Event Logs, applies flexible filtering (by keywords, event level, source, user, computer, and date range), and uses an external event mapping file to correlate EventIDs with descriptive text. The tool then generates a concise TL;DR summary along with a detailed, day-by-day timeline report.
+LogLine is a WIP log aggregation and timeline summarization tool. It collects log events from local files and Windows Event Logs, applies flexible filtering (by keywords, event level, source, user, computer, and date range), and uses an external event mapping file to correlate EventIDs with descriptive text. The tool then generates a concise TL;DR summary along with a detailed, day-by-day timeline report.
 
 ## Features
 
