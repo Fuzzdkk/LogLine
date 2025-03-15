@@ -1,13 +1,13 @@
 <#
 .SYNOPSIS
-    LogLine - A comprehensive log aggregation and timeline tool for blue-team SOCs.
+    LogLine - A log aggregation and timeline tool for windows event logs
 .DESCRIPTION
     This script collects log events from files and/or Windows Event Logs, applies optional filters
     (keywords, level, source, user, computer, date/time, noise) and outputs a chronologically sorted timeline.
     
     The TL;DR summary at the top aggregates events by EventID (using event mappings loaded from events.txt)
     so that for each unique EventID (mapped and unmapped separately) it shows the earliest and latest occurrence
-    along with a total count. This provides a compact overview for a SOC analyst.
+    along with a total count. This provides a compact overview.
     
 .PARAMETERS
     -F [string[]]       : (Optional) Paths to log files.
